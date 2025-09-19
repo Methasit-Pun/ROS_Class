@@ -1,6 +1,4 @@
-
-
-````markdown
+```markdown
 # ROS2 Turtlesim Quick Start
 
 ## Open VSCode in WSL
@@ -27,6 +25,4 @@ python3 file_name.py
 
 ```bash
 ros2 run rqt_graph rqt_graph
-```
-
 ```
