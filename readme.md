@@ -15,7 +15,7 @@ In **Terminal 1**:
 ros2 run turtlesim turtlesim_node
 ```
 
-In **Terminal 2** (replace `file_name.py` with your script):
+In **Terminal 2** (replace `file_name.py` with your script): -> Change and run in new folder file
 
 ```bash
 python3 file_name.py
